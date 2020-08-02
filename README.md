@@ -1,6 +1,6 @@
 ## [CNN(Convolutional Neural Network)](https://github.com/JeongGyuJun/CNN/blob/master/CNN.md)
 
-##### - paper(model, attention etc...)
+##### - paper(model, attention, Image Processing etc...)
 ###### 문제가 될 경우 삭제하겠습니다.
 
 1. [Very deep convolutional networks for large-scale image recognition](https://github.com/JeongGyuJun/CNN/blob/master/VGG16.md)
