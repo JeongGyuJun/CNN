@@ -1,7 +1,8 @@
 ## [CNN(Convolutional Neural Network)](https://github.com/JeongGyuJun/CNN/blob/master/CNN.md)
 
 ##### - paper(model, attention etc...)
-###### (VggNet, ResNet, DenseNet, EfficientNet).md 시작 부분 kaggle cat-vs-dog dataset에 대해 여러 실험 결과 링크 설정.
+###### 문제가 될 경우 삭제하겠습니다.
+
 1. [VggNet](https://github.com/JeongGyuJun/CNN/blob/master/VGG16.md)
 2. [ResNet](https://github.com/JeongGyuJun/CNN/blob/master/ResNet.md)
 3. [DenseNet](https://github.com/JeongGyuJun/CNN/blob/master/DenseNet.md)
@@ -18,34 +19,3 @@
 13. [FPN(Feature Pyramid Networks)](https://github.com/JeongGyuJun/CNN/blob/master/FPN.md)
 14. [YOLO(You Only Look Once)](https://github.com/JeongGyuJun/CNN/blob/master/YOLO.md)
 
-##### - [model code](https://github.com/JeongGyuJun/CNN/tree/master/model_code)
-1. [VggNet](https://github.com/JeongGyuJun/CNN/blob/master/model_code/VggNet.ipynb)
-2. [ResNet](https://github.com/JeongGyuJun/CNN/blob/master/model_code/ResNet.ipynb)
-3. [DenseNet](https://github.com/JeongGyuJun/CNN/blob/master/model_code/DenseNet.ipynb)
-4. [EfficientNet](https://github.com/JeongGyuJun/CNN/blob/master/model_code/EFFICIENTNET_B0_7.ipynb)
-5. [MobileNet](https://github.com/JeongGyuJun/CNN/blob/master/model_code/MobileNet_V1.ipynb)
-
-#### - [classification training](https://github.com/JeongGyuJun/CNN/tree/master/classification_training)
-1. [binary_model_tuning](https://github.com/JeongGyuJun/CNN/blob/master/classification_training/binary_model_tuning.ipynb)
-2. [multiclass_model_tuning](https://github.com/JeongGyuJun/CNN/blob/master/classification_training/multiclass_model_tuning.ipynb)
-3. [cross_validation_multiclass_model_tuning](https://github.com/JeongGyuJun/CNN/blob/master/classification_training/cross_validation_multiclass_model_tuning.ipynb)
-
-#### - [kaggle Dogs vs Cats](https://github.com/JeongGyuJun/CNN/tree/master/kaggle_dogs_vs_cats)
-1. [VggNet(Accuracy - Feature Map 비교)](https://github.com/JeongGyuJun/classification_vgg16net)
-2. [ResNet(Layer - 50, 101 비교)](https://github.com/JeongGyuJun/classfication_resnet)
-3. [DenseNet(Pooling - Max, Avg 비교)](https://github.com/JeongGyuJun/classification_densenet)
-4. [EfficientNet(Optimizer - SGD, Adam 비교)](https://github.com/JeongGyuJun/classification_efficientnet) 
-5. [Data Analysis(Grad CAM 이용)](https://github.com/JeongGyuJun/Cats-vs-Dogs-Data-grad-cam)
-6. [Image Convert(Pixel Update, Noise, Formatting)](https://github.com/JeongGyuJun/image_convert)
-
-#### - [kaggle_plant pathology 2020](https://github.com/JeongGyuJun/CNN/tree/master/kaggle_plant_pathology2020)
-1. [Select_Model](https://github.com/JeongGyuJun/CNN/tree/master/kaggle_plant_pathology2020/select_model)
-2. [Find_Layer](https://github.com/JeongGyuJun/CNN/tree/master/kaggle_plant_pathology2020/find_layer)
-3. [Data_Classification](https://github.com/JeongGyuJun/CNN/tree/master/kaggle_plant_pathology2020/Data_Classification)
-4. [Use_Attention](https://github.com/JeongGyuJun/CNN/tree/master/kaggle_plant_pathology2020/Use_Attention)
-5. [Optimizers](https://github.com/JeongGyuJun/CNN/tree/master/kaggle_plant_pathology2020/Optimizers)
-
-#### - [Artificial Intelligence_Machine Learning_Deep Learning](https://github.com/JeongGyuJun/CNN/tree/master/Artificial%20Intelligence_Machine%20Learning_Deep%20Learning)
-1. [optimizers.md](https://github.com/JeongGyuJun/CNN/blob/master/Artificial%20Intelligence_Machine%20Learning_Deep%20Learning/optimizers.md)
-2. [Doit_Deep_Learning](https://github.com/JeongGyuJun/CNN/tree/master/Artificial%20Intelligence_Machine%20Learning_Deep%20Learning/Doit_Deep_Learning)
-3. [Evaluating image segmentation models](https://github.com/JeongGyuJun/CNN/blob/master/Artificial%20Intelligence_Machine%20Learning_Deep%20Learning/Evaluating_image_segmentation_models.md)
