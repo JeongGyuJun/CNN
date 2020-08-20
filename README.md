@@ -27,8 +27,7 @@
 
 => Squeeze&Excitation이라는 연산 작업으로 정보의 압축 & 재조정을 효율적으로 실시하여 네트워크의 표현력을 향상시키기 위해 설계함.
 
-7. [Cbam: Convolutional block attention module]
-(https://github.com/JeongGyuJun/CNN/blob/master/Convolution_block_attention_module.md)
+7. [CBAM: Convolutional block attention module](https://github.com/JeongGyuJun/CNN/blob/master/Convolution_block_attention_module.md)
 
 => Channel & Spatial 두 가지 모듈로 Attention 기반 기능 개선을 적용하고 오버헤드를 작게 유지하면서 성능 향상을 가져옴.
 
