@@ -67,22 +67,20 @@ Encoder-Decoder
  
 Modified Aligned Xception
 --------------------------
-<img src="https://user-images.githubusercontent.com/45933225/90708861-cc329580-e2d5-11ea-8413-07aecd889343.JPG" width="80%" height="80%" title="img1" alt="img1"></img>    
+<img src="https://user-images.githubusercontent.com/45933225/90708862-cc329580-e2d5-11ea-8d8e-eff983e5a826.JPG" width="80%" height="80%" title="img1" alt="img1"></img>    
 
 eepLab V3+에서는 Xception을 backbone으로 사용하지만 MSRA의 Aligned Xception과 다른 3가지 변화를 주었다.   
 빠른 연산과 메모리 효율을 위해 Entry Flow Structure 를 수정하지 않았으며 Atrous Separable Convolution을 적용하기 위해 모든 Pooling Opearation을 Depthwise Separable Convolution으로 대체하였다.
 또한 각각의 3*3 Depthwise Convolution 이후에 추가적으로 Bath-norm과 ReLU 활성화 함수를 추가해주었다.
 
-
-
  
  Model Archtecture
  -----------------
- <img src="/deeplab/image/4.JPG" width="80%" height="80%" title="img1" alt="img1"></img>   
+ <img src="https://user-images.githubusercontent.com/45933225/90708863-cccb2c00-e2d5-11ea-8fb1-3f18d3a6a658.JPG" width="80%" height="80%" title="img1" alt="img1"></img>   
  
  실험내용
  -------
-  <img src="/deeplab/image/7.JPG" width="80%" height="80%" title="img1" alt="img1"></img>   
+  <img src="https://user-images.githubusercontent.com/45933225/90708865-cdfc5900-e2d5-11ea-953d-630569105a1e.JPG" width="80%" height="80%" title="img1" alt="img1"></img>   
    다양한 파라미터와 세팅에 대해서 실험을 진행하였는데, 우선 ResNet-101 구조를 Encoder로 사용하였을 때, 성능을 측정한 것이다.
    Decoder 부분을 bilinear upsampling 대신, 단순화된 U-Net 구조로 변경할 경우 기존 대비 mIOU 1.64% 향상이 있음을 확인 할 수 있다.
 
