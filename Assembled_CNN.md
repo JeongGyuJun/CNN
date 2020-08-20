@@ -2,6 +2,8 @@
 
 #### Assembled CNN
 
+논문 링크 : https://arxiv.org/pdf/2001.06268v2.pdf
+
 CNN과 관련된 여러 기법을 하나의 네트워크로 조립하는 좀 더 광범위하고 체계적인 연구를 수행했다. 도입된 많은 기법을 고려할 때, 우리는 먼저 기법을 네트워크 트윗과 정규화라는 두 가지 범주로 나누었다.
  
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/79968789-94ecdd00-84cb-11ea-9138-d2b190762176.png" width="50%"></p>
