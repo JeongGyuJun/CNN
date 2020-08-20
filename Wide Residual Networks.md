@@ -19,7 +19,7 @@ Wide vs Depth
 -------------
 > Block Archtecture 비교   
 
-<img src="https://user-images.githubusercontent.com/45933225/90708174-27638880-e2d4-11ea-8e9b-6cc2ba3b3e10.JPG" width="60%" height="60%" title="img1" alt="img1"></img>   
+<img src="https://user-images.githubusercontent.com/45933225/90708174-27638880-e2d4-11ea-8e9b-6cc2ba3b3e10.JPG" width="60%" height="60%" title="img1" alt="img1" align="center"></img>   
 
 ResNet은 shorcut connection을 통해 많은 layer을 학습 할 수 있도록 하였다.
 하지만 망이 깊어지면 깊어질 수록 의미있는 정보(context)를 갖는 필터의 수의 비가 적어지는 문제가 발생하게 되었다.
