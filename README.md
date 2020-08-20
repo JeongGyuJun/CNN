@@ -38,7 +38,7 @@
 9. [Compounding the Performance Improvements of Assembled Techniques
 in a Convolutional Neural Network](https://github.com/JeongGyuJun/CNN/blob/master/Assembled_CNN.md)
 
-=> 
+=> 기존에 존재하는 기법(regularization, attention)을 참고하여 기본 CNN 모델에 결합하여 적용하면 처리량 손실을 최소화하면서 모델의 일반화 능력을 향상시킬 수 있음을 검증하며, accuracy, MCE의 개선을 보여줌.
 
 10. [Learning in the Frequency Domain](https://github.com/JeongGyuJun/CNN/blob/master/Learning%20in%20the%20Frequency%20Domain.md)
 
