@@ -66,6 +66,6 @@ Visual Explanations from Deep Networks via Gradient-based Localization](https://
 
 => Grad-CAM이깊은 신경망에서의 예측이 적절한 신뢰를 구성할 수 있도록 사용자를 돕거나, 훈련되지 않은 사용자가 동일한 예측을 할 때 강한 깊은 신경망의 기능을 약한 깊은 신겨망에서 성공적으로 식별할 수 있도록 도와주며 '모델이 문제를 얼마나 잘 해결하고 있는가'를 확인하는 지표로서 동작함.
 
-17. [Wide Residual Networks]()
+17. [Wide Residual Networks](https://github.com/JeongGyuJun/Convolution_Neural_Network_Papers/blob/master/Wide%20Residual%20Networks.md)
 
 =>
