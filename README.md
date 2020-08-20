@@ -49,19 +49,23 @@
 
 => 기존 Image Classification에서 우수한 성능을 보인 Convolutional Neural Network 기반 모델의 fully connected layer를 1 x 1 convolution 변경하여 공간 정보의 위치를 유지할 수 있게 되어 장면 이해 성능을 높임으로써 로봇 비전, 자율 주행의 영상 부분에 적용 가능 할 수 있게함.
 
-13. [Feature Pyramid Networks for Object Detection](https://github.com/JeongGyuJun/CNN/blob/master/FPN.md)
+13. [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets]()
+
+=>
+
+14. [Feature Pyramid Networks for Object Detection](https://github.com/JeongGyuJun/CNN/blob/master/FPN.md)
 
 => Bottom-up, Top-down pathway, lateral connection 단계를 거쳐서 다양한 스케일의 객체를 찾기 위한 방법으로 비용과 속도 그리고 정확도의 향상을 가져올 수 있었음. 
 
-14. [YOLO(You Only Look Once)](https://github.com/JeongGyuJun/CNN/blob/master/YOLO.md)
+15. [YOLO(You Only Look Once)](https://github.com/JeongGyuJun/CNN/blob/master/YOLO.md)
 
 => 현재의 detection system은 분류기에 detection 역할을 하도록 재설정하는 방식으로 object detection을 위해서, 시스템은 객체를 분류기가 받아 테스트 이미지 내에서 다양한 위치와 크기를 표현함.
 
-15. [Grad-CAM:
+16. [Grad-CAM:
 Visual Explanations from Deep Networks via Gradient-based Localization](https://github.com/JeongGyuJun/Convolution_Neural_Network_Papers/blob/master/Grad_CAM.md)
 
 => Grad-CAM이깊은 신경망에서의 예측이 적절한 신뢰를 구성할 수 있도록 사용자를 돕거나, 훈련되지 않은 사용자가 동일한 예측을 할 때 강한 깊은 신경망의 기능을 약한 깊은 신겨망에서 성공적으로 식별할 수 있도록 도와주며 '모델이 문제를 얼마나 잘 해결하고 있는가'를 확인하는 지표로서 동작함.
 
-15. [Wide Residual Networks]()
+17. [Wide Residual Networks]()
 
 =>
