@@ -1,4 +1,6 @@
-## Assembled CNN
+## Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network
+
+#### Assembled CNN
 
 CNN과 관련된 여러 기법을 하나의 네트워크로 조립하는 좀 더 광범위하고 체계적인 연구를 수행했다. 도입된 많은 기법을 고려할 때, 우리는 먼저 기법을 네트워크 트윗과 정규화라는 두 가지 범주로 나누었다.
  
