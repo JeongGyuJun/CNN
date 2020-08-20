@@ -58,6 +58,7 @@
 
 => 현재의 detection system은 분류기에 detection 역할을 하도록 재설정하는 방식으로 object detection을 위해서, 시스템은 객체를 분류기가 받아 테스트 이미지 내에서 다양한 위치와 크기를 표현함.
 
-15. [Grad CAM]()
+15. [Grad-CAM:
+Visual Explanations from Deep Networks via Gradient-based Localization](https://github.com/JeongGyuJun/Convolution_Neural_Network_Papers/blob/master/Grad_CAM.md)
 
-=> 
+=> Grad-CAM이깊은 신경망에서의 예측이 적절한 신뢰를 구성할 수 있도록 사용자를 돕거나, 훈련되지 않은 사용자가 동일한 예측을 할 때 강한 깊은 신경망의 기능을 약한 깊은 신겨망에서 성공적으로 식별할 수 있도록 도와주며 '모델이 문제를 얼마나 잘 해결하고 있는가'를 확인하는 지표로서 동작함.
