@@ -35,7 +35,8 @@
 
 =>  Knowledge Distillation 분야의 연구로 teacher 네트워크의 knowledge를 student 네트워크로 옮겨서 차이를 줄이는 방법으로 모델 사이즈가 작고 비용 면에서 효율적으로 구성하여 가벼운 기기에서 딥러닝 모델이 돌아갈 수 있도록 함.
 
-9. [Assemble_CNN](https://github.com/JeongGyuJun/CNN/blob/master/Assembled_CNN.md)
+9. [Compounding the Performance Improvements of Assembled Techniques
+in a Convolutional Neural Network](https://github.com/JeongGyuJun/CNN/blob/master/Assembled_CNN.md)
 
 10. [Learning in the Frequency Domain](https://github.com/JeongGyuJun/CNN/blob/master/Learning%20in%20the%20Frequency%20Domain.md)
 
