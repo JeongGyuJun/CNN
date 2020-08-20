@@ -49,9 +49,9 @@
 
 => 기존 Image Classification에서 우수한 성능을 보인 Convolutional Neural Network 기반 모델의 fully connected layer를 1 x 1 convolution 변경하여 공간 정보의 위치를 유지할 수 있게 되어 장면 이해 성능을 높임으로써 로봇 비전, 자율 주행의 영상 부분에 적용 가능 할 수 있게함.
 
-13. [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets]()
+13. [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets](https://github.com/JeongGyuJun/Convolution_Neural_Network_Papers/blob/master/DeepLab.md)
 
-=>
+=> 
 
 14. [Feature Pyramid Networks for Object Detection](https://github.com/JeongGyuJun/CNN/blob/master/FPN.md)
 
