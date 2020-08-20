@@ -38,6 +38,8 @@
 9. [Compounding the Performance Improvements of Assembled Techniques
 in a Convolutional Neural Network](https://github.com/JeongGyuJun/CNN/blob/master/Assembled_CNN.md)
 
+=> 
+
 10. [Learning in the Frequency Domain](https://github.com/JeongGyuJun/CNN/blob/master/Learning%20in%20the%20Frequency%20Domain.md)
 
 => Digital Signal Processing의 영감을 받아 주파수 영역에서의 학습 방법을 제안함으로써 영상 정보의 보존성과 향상된 정확도를 달성하는 것을 보여줌.
