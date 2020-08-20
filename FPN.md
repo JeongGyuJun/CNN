@@ -1,5 +1,7 @@
 ## Feature Pyramid Networks for Object Detection
 
+논문 링크 : <https://arxiv.org/pdf/1612.03144.pdf>  
+
 ### Abstract
 Feature pyramids는 recognition의 기본 요소이다. 이는 서로 다른 Scale 개체를 탐지하는 시스템에서 compute, memory 면에서 pyramid 표현에 어려움이 있다.
 
