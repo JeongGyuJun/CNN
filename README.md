@@ -33,7 +33,7 @@
 
 8. [A Comprehensive Overhaul of Feature Distillation](https://github.com/JeongGyuJun/CNN/blob/master/A_Comprehensive_Overhaul%20of_Feature_Distillation.md)
 
-=>  Knowledge Distillation 분야의 연구로 teacher 네트워크의 knowledge를 student 네트워크로 옮겨서 차이를 줄이는 방법으로 모델 사이즈가 작고 비용 면에서 효율적으로 구성하여 가벼운 기기에서 딥러닝 모델이 돌아갈 수 있도록 함.
+=>  Knowledge Distillation 분야의 연구로 teacher network의 knowledge를 student network로 옮겨서 차이를 줄이는 방법으로 모델 사이즈가 작고 비용 면에서 효율적으로 구성하여 가벼운 기기에서 딥러닝 모델이 돌아갈 수 있도록 함.
 
 9. [Compounding the Performance Improvements of Assembled Techniques
 in a Convolutional Neural Network](https://github.com/JeongGyuJun/CNN/blob/master/Assembled_CNN.md)
@@ -54,7 +54,7 @@ in a Convolutional Neural Network](https://github.com/JeongGyuJun/CNN/blob/maste
 
 13. [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets](https://github.com/JeongGyuJun/Convolution_Neural_Network_Papers/blob/master/DeepLab.md)
 
-=> 
+=> atrous convolution, spatial pyramid pooling, encoder-decoder, depthwise separable convolution 기법들을 활용하여 convolution 연산을 효율적으로 이용함으로써 이미지 semantic segmentation의 성능을 개선하기 위해 여러 버전을 출시함.
 
 14. [Feature Pyramid Networks for Object Detection](https://github.com/JeongGyuJun/CNN/blob/master/FPN.md)
 
