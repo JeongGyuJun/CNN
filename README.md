@@ -71,4 +71,4 @@ Visual Explanations from Deep Networks via Gradient-based Localization](https://
 
 17. [Wide Residual Networks](https://github.com/JeongGyuJun/Convolution_Neural_Network_Papers/blob/master/Wide%20Residual%20Networks.md)
 
-=>
+=> 기존 residual network(ResNet)의 circuit complexity theory, diminishing feature reuse 문제를 개선시키고자 depth(d), wide widening(k) 매개변수를 유동적으로 사용하며 기존 bottleneck 구조에 dropout 기법을 추가/변형하여 성능을 개선시킴. 다만, 추가적인 비용에 따라 모델 학습의 시간이 추가로 필요하다는 단점을 가짐.
