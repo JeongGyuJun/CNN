@@ -26,9 +26,6 @@ Grad-CAM 및 Guided Grad-CAM에 대한 접근 방식을 제안한다.
 아래 그림에서 볼 수 있듯 Grad-CAM을 표현하기 위해서는 Conv 층의 Gradient를 활용하여 해당 그래디언트와 feature maps에 곱연산하고 추가적으로
 ReLU를 거친 값을 입력이미지에 heat-map 해줘야 하는 걸 알 수 있다.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/90705876-e1f08c80-e2ce-11ea-9cc2-0e0e743aaf54.png" width="70%"></p>
-
-
 ##### 3.1 Grad-CAM generalizes CAM
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/90705876-e1f08c80-e2ce-11ea-9cc2-0e0e743aaf54.png" width="70%"></p>
