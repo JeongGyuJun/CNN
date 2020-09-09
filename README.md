@@ -9,7 +9,7 @@
 
 2. [Deep Residual Learning for Image Recognition](https://github.com/JeongGyuJun/CNN/blob/master/ResNet.md)
 
-=> 네트워크가 깊어질수록 problem of vanishing/exploding gradients)가 발생하는 문제점을 해결하고자 Residual 네트워크을 이용함.
+=> 네트워크가 깊어질수록vanishing/exploding gradients가 발생하는 문제점을 해결하고자 Bottleneck 구조를 이용한 Residual Network를 이용함.
 
 3. [Densely connected convolutional networks](https://github.com/JeongGyuJun/CNN/blob/master/DenseNet.md)
 
