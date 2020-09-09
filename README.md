@@ -5,7 +5,7 @@
 
 1. [Very deep convolutional networks for large-scale image recognition](https://github.com/JeongGyuJun/CNN/blob/master/VGG16.md)
 
-=> 대량의 이미지 분류에 대한 깊은 신경망의 표현하는 깊이가 분류 정확도에 이롭다는 것을 입증함.
+=> 대량의 이미지 분류에 대한 깊은 신경망의 표현하는 깊이가 분류 정확도를 이끌 수 있다는 것을 입증함.
 
 2. [Deep Residual Learning for Image Recognition](https://github.com/JeongGyuJun/CNN/blob/master/ResNet.md)
 
